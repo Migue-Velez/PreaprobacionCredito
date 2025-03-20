@@ -1,0 +1,15 @@
+C:\Users\migue\Documents\Universidad\Semestre VII\Arquitectura\Parcial I\PreaprobacionCredito\CapaAccesoDatosMemoria\bin\Debug\net8.0\CapaAccesoDatosMemoria.deps.json
+C:\Users\migue\Documents\Universidad\Semestre VII\Arquitectura\Parcial I\PreaprobacionCredito\CapaAccesoDatosMemoria\bin\Debug\net8.0\CapaAccesoDatosMemoria.dll
+C:\Users\migue\Documents\Universidad\Semestre VII\Arquitectura\Parcial I\PreaprobacionCredito\CapaAccesoDatosMemoria\bin\Debug\net8.0\CapaAccesoDatosMemoria.pdb
+C:\Users\migue\Documents\Universidad\Semestre VII\Arquitectura\Parcial I\PreaprobacionCredito\CapaAccesoDatosMemoria\bin\Debug\net8.0\CapaNegocio.dll
+C:\Users\migue\Documents\Universidad\Semestre VII\Arquitectura\Parcial I\PreaprobacionCredito\CapaAccesoDatosMemoria\bin\Debug\net8.0\CapaNegocio.pdb
+C:\Users\migue\Documents\Universidad\Semestre VII\Arquitectura\Parcial I\PreaprobacionCredito\CapaAccesoDatosMemoria\obj\Debug\net8.0\CapaAccesoDatosMemoria.csproj.AssemblyReference.cache
+C:\Users\migue\Documents\Universidad\Semestre VII\Arquitectura\Parcial I\PreaprobacionCredito\CapaAccesoDatosMemoria\obj\Debug\net8.0\CapaAccesoDatosMemoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Documents\Universidad\Semestre VII\Arquitectura\Parcial I\PreaprobacionCredito\CapaAccesoDatosMemoria\obj\Debug\net8.0\CapaAccesoDatosMemoria.AssemblyInfoInputs.cache
+C:\Users\migue\Documents\Universidad\Semestre VII\Arquitectura\Parcial I\PreaprobacionCredito\CapaAccesoDatosMemoria\obj\Debug\net8.0\CapaAccesoDatosMemoria.AssemblyInfo.cs
+C:\Users\migue\Documents\Universidad\Semestre VII\Arquitectura\Parcial I\PreaprobacionCredito\CapaAccesoDatosMemoria\obj\Debug\net8.0\CapaAccesoDatosMemoria.csproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\Universidad\Semestre VII\Arquitectura\Parcial I\PreaprobacionCredito\CapaAccesoDatosMemoria\obj\Debug\net8.0\CapaAcce.987AB575.Up2Date
+C:\Users\migue\Documents\Universidad\Semestre VII\Arquitectura\Parcial I\PreaprobacionCredito\CapaAccesoDatosMemoria\obj\Debug\net8.0\CapaAccesoDatosMemoria.dll
+C:\Users\migue\Documents\Universidad\Semestre VII\Arquitectura\Parcial I\PreaprobacionCredito\CapaAccesoDatosMemoria\obj\Debug\net8.0\refint\CapaAccesoDatosMemoria.dll
+C:\Users\migue\Documents\Universidad\Semestre VII\Arquitectura\Parcial I\PreaprobacionCredito\CapaAccesoDatosMemoria\obj\Debug\net8.0\CapaAccesoDatosMemoria.pdb
+C:\Users\migue\Documents\Universidad\Semestre VII\Arquitectura\Parcial I\PreaprobacionCredito\CapaAccesoDatosMemoria\obj\Debug\net8.0\ref\CapaAccesoDatosMemoria.dll

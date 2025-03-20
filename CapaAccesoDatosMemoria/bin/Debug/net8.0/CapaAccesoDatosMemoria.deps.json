@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CapaAccesoDatosMemoria/1.0.0": {
+        "dependencies": {
+          "CapaNegocio": "1.0.0"
+        },
+        "runtime": {
+          "CapaAccesoDatosMemoria.dll": {}
+        }
+      },
+      "CapaNegocio/1.0.0": {
+        "runtime": {
+          "CapaNegocio.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CapaAccesoDatosMemoria/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CapaNegocio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

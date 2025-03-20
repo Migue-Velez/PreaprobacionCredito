@@ -1,0 +1,11 @@
+C:\Users\migue\Documents\Universidad\Semestre VII\Arquitectura\Parcial I\PreaprobacionCredito\CapaNegocio\bin\Debug\net8.0\CapaNegocio.deps.json
+C:\Users\migue\Documents\Universidad\Semestre VII\Arquitectura\Parcial I\PreaprobacionCredito\CapaNegocio\bin\Debug\net8.0\CapaNegocio.dll
+C:\Users\migue\Documents\Universidad\Semestre VII\Arquitectura\Parcial I\PreaprobacionCredito\CapaNegocio\bin\Debug\net8.0\CapaNegocio.pdb
+C:\Users\migue\Documents\Universidad\Semestre VII\Arquitectura\Parcial I\PreaprobacionCredito\CapaNegocio\obj\Debug\net8.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Documents\Universidad\Semestre VII\Arquitectura\Parcial I\PreaprobacionCredito\CapaNegocio\obj\Debug\net8.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\migue\Documents\Universidad\Semestre VII\Arquitectura\Parcial I\PreaprobacionCredito\CapaNegocio\obj\Debug\net8.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\migue\Documents\Universidad\Semestre VII\Arquitectura\Parcial I\PreaprobacionCredito\CapaNegocio\obj\Debug\net8.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\migue\Documents\Universidad\Semestre VII\Arquitectura\Parcial I\PreaprobacionCredito\CapaNegocio\obj\Debug\net8.0\CapaNegocio.dll
+C:\Users\migue\Documents\Universidad\Semestre VII\Arquitectura\Parcial I\PreaprobacionCredito\CapaNegocio\obj\Debug\net8.0\refint\CapaNegocio.dll
+C:\Users\migue\Documents\Universidad\Semestre VII\Arquitectura\Parcial I\PreaprobacionCredito\CapaNegocio\obj\Debug\net8.0\CapaNegocio.pdb
+C:\Users\migue\Documents\Universidad\Semestre VII\Arquitectura\Parcial I\PreaprobacionCredito\CapaNegocio\obj\Debug\net8.0\ref\CapaNegocio.dll
